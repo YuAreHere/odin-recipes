@@ -20,18 +20,21 @@ p {
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color:rgb(156, 87, 62);
+    font-size: 20px;
 }
 
 ul {
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color:rgb(156, 87, 62);
+    font-size: 20px;
 }
 
 ol {
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color:rgb(156, 87, 62);
+    font-size: 20px;
 }
 
 .food {
